@@ -37,6 +37,8 @@ starting server
 make server
 ```
 
+starting client
+
 ```shell
 make client
 ```
