@@ -46,7 +46,7 @@ make client
 ## protobufの定義を更新してgoファイルを生成する
 
 ```shell
-make generate
+make genproto
 ```
 
 # References
